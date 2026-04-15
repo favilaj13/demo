@@ -1,7 +1,7 @@
 {
   "name": "hola-mundo",
   "version": "1.0.0",
-  "description": "App Hola Mundo para OpenShift",
+  "description": "App Hola Mundo para OpenShift2",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
